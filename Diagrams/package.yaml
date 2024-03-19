@@ -1,0 +1,10 @@
+name: diagrams-package
+version: 0.1.0.0
+dependencies:
+  - base ^>=4.17.2.1
+  # - diagrams
+  - diagrams-svg
+  - diagrams-lib
+executables:
+  diagrams:
+    main: main.hs

@@ -31,6 +31,11 @@ validate stack is added onto the path variables
 `ghc .\main.hs`
 `.\main.exe`
 
+
+# to open command line of haskell (REPL)
+`ghci`
+
+
 ``` 
 cabal update
 Downloading the latest package list from hackage.haskell.org
@@ -124,3 +129,13 @@ Choose a language for your executable:
 
 Add informative comments to each field in the cabal file. (y/n)? [default: y]
 
+
+Make sure all packages installed
+``` cabal install --only-dependencies ```
+
+``` cabal configure ```
+``` cabal build ```
+``` cabal run ```
+
+
+Cabal Sandbox

@@ -1,0 +1,25 @@
+cabal-version:      3.0
+name:               frp
+version:            0.1.0.0
+license:            ISC
+license-file:       LICENSE
+author:             Habiba.Ahmed
+maintainer:         habiba.ahmed@integrant.com
+category:           Web
+build-type:         Simple
+
+executable Addition
+  main-is:             Addition.hs
+  other-extensions:    ScopedTypeVariables
+  build-depends:        base ^>=4.17.2.1, threepenny-gui
+  default-language:    Haskell2010
+
+-- executable Counter
+--   main-is:             Counter.hs
+--   build-depends:        base ^>=4.17.2.1, threepenny-gui
+--   default-language:    Haskell2010
+
+-- executable Chat
+--   main-is:             Chat.hs
+--   build-depends:        base ^>=4.17.2.1, threepenny-gui
+--   default-language:    Haskell2010
