@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="haskell-fundamentals-part2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/haskell-fundamentals-part2/4-haskell-fundamentals-part2-m4-common-monads-exercise-files.zip!/" />
+      <root url="jar://$PROJECT_DIR$/haskell-fundamentals-part2/2-(Collections Set- Seq-Lists-Map) haskell-fundamentals-part2-m2-standard-collections-exercise-files.zip!/" />
+      <root url="jar://$PROJECT_DIR$/haskell-fundamentals-part2/1-(Importing modules- creating packages - Cabal )haskell-fundamentals-part2-m1-modules-and-packages-exercise-files.zip!/" />
+      <root url="jar://$PROJECT_DIR$/haskell-fundamentals-part2/6-haskell-fundamentals-part2-m6-libraries-exercise-files.zip!/" />
+      <root url="jar://$PROJECT_DIR$/haskell-fundamentals-part2/3-haskell-fundamentals-part2-m3-monads-exercise-files.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

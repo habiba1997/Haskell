@@ -1,0 +1,4 @@
+2024-04-14 14:23:33.603521800000 [$pid(ThreadId 5)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2024-04-14 14:23:33.624528400000 [$pid(ThreadId 5)] WARNING APP - InitState InternalLoadRequest (HdaInternalLoadRequest {pathHdaInternalLoadRequest = "C:\\Users\\habiba.ahmed\\Desktop\\haskell\\cabal-minimal-server\\dist-newstyle\\tmp\\src-38337\\attoparsec-0.14.4\\dist\\build\\autogen\\PackageInfo_attoparsec.hs"}) not supported. nop.
+2024-04-14 14:23:33.632934700000 [$pid(ThreadId 5)] WARNING APP - InitState InternalLoadRequest (HdaInternalLoadRequest {pathHdaInternalLoadRequest = "C:\\Users\\habiba.ahmed\\Desktop\\haskell\\cabal-minimal-server\\dist-newstyle\\tmp\\src-38337\\attoparsec-0.14.4\\dist\\build\\autogen\\Paths_attoparsec.hs"}) not supported. nop.
+2024-04-14 14:24:16.012321800000 [$pid(ThreadId 5)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
